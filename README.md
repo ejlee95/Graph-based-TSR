@@ -4,7 +4,6 @@
 
 ### ICDAR 2019 competition dataset [Link](https://github.com/cndplab-founder/ICDAR2019_cTDaR)
 
-| CascadeTabNet | <img src="./Images/ICDAR2019/cascadetabnet_cTDaR_t10021.jpg" width="400"> |
-| TabStructNet | <img src="./Images/ICDAR2019/tabstructnet_cTDaR_t10021.jpg" width="400"> |
-| SPLERGE | <img src="./Images/ICDAR2019/splerge_cTDaR_t10021.jpg" width="400"> |
-| Proposed | <img src="./Images/ICDAR2019/proposed_cTDaR_t10021.jpg" width="400"> |
+| CascadeTabNet | TabStructNet | SPLERGE | Proposed | 
+| ------------- | ------------ | ------- | -------- |
+| <img src="./Images/ICDAR2019/cascadetabnet_cTDaR_t10021.jpg" width="200"> | <img src="./Images/ICDAR2019/tabstructnet_cTDaR_t10021.jpg" width="200"> | <img src="./Images/ICDAR2019/splerge_cTDaR_t10021.jpg" width="200"> | <img src="./Images/ICDAR2019/proposed_cTDaR_t10021.jpg" width="200"> |
