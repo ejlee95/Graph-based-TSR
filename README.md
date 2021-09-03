@@ -24,6 +24,6 @@
 
 | CascadeTabNet | TabStructNet | SPLERGE | Proposed | 
 | ------------- | ------------ | ------- | -------- |
-| <img src="./Images/Handdrawn/cascadetabnet_test_05.jpg" width="200"> | <img src="./Images/Receipt/tabstructnet_test_05.jpg" width="200"> | <img src="./Images/Receipt/splerge_test_05.jpg" width="200"> | <img src="./Images/Handdrawn/proposed_test_05.jpg" width="200"> |
+| <img src="./Images/Handdrawn/cascadetabnet_test_05.jpg" width="200"> | <img src="./Images/Handdrawn/tabstructnet_test_05.jpg" width="200"> | <img src="./Images/Handdrawn/splerge_test_05.jpg" width="200"> | <img src="./Images/Handdrawn/proposed_test_05.jpg" width="200"> |
 
 
