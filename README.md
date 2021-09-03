@@ -1,4 +1,4 @@
-# Graph-based-TSR
+# Deep-learning and graph-based approach to table structure recognition
 
 ## Table Structure Recognition results
 
