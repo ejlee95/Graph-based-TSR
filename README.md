@@ -2,7 +2,7 @@
 
 This is an official implementation of [Graph-based-TSR](https://link.springer.com/article/10.1007/s11042-021-11819-7) on Python 3, TensorFlow.
 
-<img src="./Images/fig3.png>
+<img src="./Images/fig3.png" width="800">
 
 ## Requirements
 gurobipy
