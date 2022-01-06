@@ -1,0 +1,24 @@
+< Data used in paper >
+
+
+1. ctdar19_B2_m: ICDAR 2019 challenge data (trackB2, modern)
+ 1) train (84 samples)
+  -- images (*.jpg), heatmap label (*.json)
+ 2) test (19 samples)
+  -- PDF-based : original images from challenge
+   --- images (img/*.jpg), heatmap label (json/*.json), evaluation label (xml/*.xml)
+  -- SCAN : print-then-scanned images
+   --- images (img/*.jpg), heatmap label (json/*.json), evaluation label (xml/*.xml)
+
+2. challenging: challenging data we collected
+ 1) receipt (hospital receipt, scanned, 17 samples)
+  -- images (img/*.jpg), heatmap label (json/*.json), evaluation label (xml/*.xml)
+ 2) hand-drawing (4 samples)
+  -- images (img/*.jpg)
+ 3) blank (colored-cells with blank-separator)
+  (1) train (7 samples)
+   -- images (*.jpg), heatmap label (*.json)
+  (2) test (12 samples)
+   -- images (img/*.jpg)
+
+

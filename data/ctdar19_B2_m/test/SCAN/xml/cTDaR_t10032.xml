@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document filename="cTDaR_t10032.jpg">
+  <table>
+    <Coords points="290,2101 290,2519 2199,2519 2199,2101" />
+    <cell start-row="0" start-col="0" end-row="0" end-col="0">
+      <Coords points="290,2101 290,2154 366,2154 366,2101" />
+    </cell>
+    <cell start-row="0" start-col="1" end-row="0" end-col="1">
+      <Coords points="366,2101 366,2154 645,2154 645,2101" />
+    </cell>
+    <cell start-row="0" start-col="2" end-row="0" end-col="2">
+      <Coords points="645,2101 645,2154 1922,2154 1922,2101" />
+    </cell>
+    <cell start-row="0" start-col="3" end-row="0" end-col="3">
+      <Coords points="1922,2101 1922,2154 2199,2154 2199,2101" />
+    </cell>
+    <cell start-row="1" start-col="0" end-row="1" end-col="0">
+      <Coords points="290,2154 290,2210 366,2210 366,2154" />
+    </cell>
+    <cell start-row="1" start-col="1" end-row="1" end-col="1">
+      <Coords points="366,2154 366,2210 645,2210 645,2154" />
+    </cell>
+    <cell start-row="1" start-col="2" end-row="1" end-col="2">
+      <Coords points="645,2154 645,2210 1922,2210 1922,2154" />
+    </cell>
+    <cell start-row="1" start-col="3" end-row="1" end-col="3">
+      <Coords points="1922,2154 1922,2210 2199,2210 2199,2154" />
+    </cell>
+    <cell start-row="2" start-col="0" end-row="2" end-col="0">
+      <Coords points="290,2210 290,2270 366,2270 366,2210" />
+    </cell>
+    <cell start-row="2" start-col="1" end-row="2" end-col="1">
+      <Coords points="366,2210 366,2270 645,2270 645,2210" />
+    </cell>
+    <cell start-row="2" start-col="2" end-row="2" end-col="2">
+      <Coords points="645,2210 645,2270 1922,2270 1922,2210" />
+    </cell>
+    <cell start-row="2" start-col="3" end-row="2" end-col="3">
+      <Coords points="1922,2210 1922,2270 2199,2270 2199,2210" />
+    </cell>
+    <cell start-row="3" start-col="0" end-row="3" end-col="0">
+      <Coords points="290,2270 290,2326 366,2326 366,2270" />
+    </cell>
+    <cell start-row="3" start-col="1" end-row="3" end-col="1">
+      <Coords points="366,2270 366,2326 645,2326 645,2270" />
+    </cell>
+    <cell start-row="3" start-col="2" end-row="3" end-col="2">
+      <Coords points="645,2270 645,2326 1922,2326 1922,2270" />
+    </cell>
+    <cell start-row="3" start-col="3" end-row="3" end-col="3">
+      <Coords points="1922,2270 1922,2326 2199,2326 2199,2270" />
+    </cell>
+    <cell start-row="4" start-col="0" end-row="4" end-col="0">
+      <Coords points="290,2326 290,2406 366,2406 366,2326" />
+    </cell>
+    <cell start-row="4" start-col="1" end-row="4" end-col="1">
+      <Coords points="366,2326 366,2406 645,2406 645,2326" />
+    </cell>
+    <cell start-row="4" start-col="2" end-row="4" end-col="2">
+      <Coords points="645,2326 645,2406 1922,2406 1922,2326" />
+    </cell>
+    <cell start-row="4" start-col="3" end-row="4" end-col="3">
+      <Coords points="1922,2326 1922,2406 2199,2406 2199,2326" />
+    </cell>
+    <cell start-row="5" start-col="0" end-row="5" end-col="0">
+      <Coords points="290,2406 290,2466 366,2466 366,2406" />
+    </cell>
+    <cell start-row="5" start-col="1" end-row="5" end-col="1">
+      <Coords points="366,2406 366,2466 645,2466 645,2406" />
+    </cell>
+    <cell start-row="5" start-col="2" end-row="5" end-col="2">
+      <Coords points="645,2406 645,2466 1922,2466 1922,2406" />
+    </cell>
+    <cell start-row="5" start-col="3" end-row="5" end-col="3">
+      <Coords points="1922,2406 1922,2466 2199,2466 2199,2406" />
+    </cell>
+    <cell start-row="6" start-col="0" end-row="6" end-col="0">
+      <Coords points="290,2466 290,2519 366,2519 366,2466" />
+    </cell>
+    <cell start-row="6" start-col="1" end-row="6" end-col="1">
+      <Coords points="366,2466 366,2519 645,2519 645,2466" />
+    </cell>
+    <cell start-row="6" start-col="2" end-row="6" end-col="2">
+      <Coords points="645,2466 645,2519 1922,2519 1922,2466" />
+    </cell>
+    <cell start-row="6" start-col="3" end-row="6" end-col="3">
+      <Coords points="1922,2466 1922,2519 2199,2519 2199,2466" />
+    </cell>
+  </table>
+</document>
