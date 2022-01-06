@@ -68,3 +68,15 @@ See detailed arguments in codes/code_training/set_default_training_options.py fi
 | <img src="./Images/Handdrawn/cascadetabnet_test_05.jpg" width="200"> | <img src="./Images/Handdrawn/tabstructnet_test_05.jpg" width="200"> | <img src="./Images/Handdrawn/splerge_test_05.jpg" width="200"> | <img src="./Images/Handdrawn/proposed_test_05.jpg" width="200"> |
 
 
+##### Please use this to cite our work:
+
+```
+@article{lee2021deep,
+  title={Deep-learning and graph-based approach to table structure recognition},
+  author={Lee, Eunji and Park, Jaewoo and Koo, Hyung Il and Cho, Nam Ik},
+  journal={Multimedia Tools and Applications},
+  pages={1--22},
+  year={2021},
+  publisher={Springer}
+}
+```
