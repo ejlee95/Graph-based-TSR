@@ -12,6 +12,8 @@ Use the following command:
     conda env create -f graphtsr.yml
 ```
 
+You have to get the license of [Gurobi optimizer](https://www.gurobi.com/downloads/).
+
 ## Data
 
 Document data used in paper are stored in data folder.
