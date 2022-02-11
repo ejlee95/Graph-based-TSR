@@ -5,13 +5,12 @@ This is an official implementation of [Graph-based-TSR](https://link.springer.co
 <img src="./Images/fig3.png" width="800">
 
 ## Requirements
-gurobipy
 
-opencv-python
+Use the following command:
 
-tqdm
-
-sharedmem
+```
+    conda env create -f graphtsr.yml
+```
 
 ## Data
 
